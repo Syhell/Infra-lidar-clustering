@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shell/infra_lidar_clustering/devel/setup.sh

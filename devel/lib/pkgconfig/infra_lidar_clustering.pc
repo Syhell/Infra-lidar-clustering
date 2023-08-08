@@ -1,0 +1,8 @@
+prefix=/home/shell/infra_lidar_clustering/devel
+
+Name: infra_lidar_clustering
+Description: Description of infra_lidar_clustering
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

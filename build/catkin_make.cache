@@ -1,0 +1,2 @@
+infra_lidar_clustering
+-DCATKIN_DEVEL_PREFIX=/home/shell/infra_lidar_clustering/devel -DCMAKE_INSTALL_PREFIX=/home/shell/infra_lidar_clustering/install -G Unix Makefiles
